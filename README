@@ -2,6 +2,10 @@ slock - simple screen locker
 ============================
 simple screen locker utility for X.
 
+potatolock
+----------
+applied patches:
+ - dpms
 
 Requirements
 ------------
